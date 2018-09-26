@@ -40,7 +40,7 @@
 #define LARGEINT_H
 
 #include <iostream>
-#define LARGEINT_CAPACITY 200 /* the length of figure, you can modify it any time if you want */
+#define LARGEINT_CAPACITY 200 /* the length of figure, you can modify it any time if you want and remember recomplie invoved cpp file */
 
 class LargeInt {
 	private:
